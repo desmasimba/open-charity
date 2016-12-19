@@ -27,6 +27,7 @@ a {text-decoration:none;}
 .front .content-inner h1, .front  #first-time {display: none;}
 .region-inner {max-width:1250px; margin-left:auto; margin-right:auto; padding:0 15px;}
 .clearfix { clear:both;}
+.clearfix:after {content: ""; overflow:hidden;}
 
 /* HEADER SECTION */
 
