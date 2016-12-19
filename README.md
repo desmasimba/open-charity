@@ -13,7 +13,7 @@ Copy and paste the folder 'open_charity_theme' in your drupal themes folder 'sit
 ```
 Activate
 ```
-Go to admin > appearance > select your new theme > make it default. You are good to go!
+Go to admin > appearance > select your new theme > enable and make it default. You are good to go!
 
 ## Solution
 
