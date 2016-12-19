@@ -2,8 +2,8 @@ name = Open Charity
 description = A custom HTML/CSS template for Open Charity.
 core = 7.x
  
-stylesheets[all][] = css/style.CSS
-scripts[] = js/theme.js
+stylesheets[all][] = /css/style.CSS
+scripts[] = /js/theme.js
  
 regions[user_menu] = User Menu
 regions[header] = Header
