@@ -1,3 +1,7 @@
+# Project Title
+
+Open Charity Drupal 7 HTML/CSS Theme
+
 ### Description
 
 Open charity is an organisation that hosts events in London about open source software and solution for charities.
